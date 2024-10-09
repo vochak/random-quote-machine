@@ -1,0 +1,9 @@
+body{
+background-color: black;
+  color: white;
+}
+div {
+    margin: auto;
+    width: 50%;
+    /* Other styles (e.g., border, padding) */
+}
